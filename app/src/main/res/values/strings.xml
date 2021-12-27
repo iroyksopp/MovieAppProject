@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MovieApp</string>
+    <string name="movie_app_name">MovieApp</string>
+    <string name="top_popular">Топ популярных</string>
+    <string name="top_rated">Топ рейтинговых</string>
+    <string name="next_page">Next Page</string>
+    <string name="detail_poster_description">Постер к фильму</string>
+    <string name="title">Название</string>
+    <string name="logo_app_description">Лого приложения</string>
+    <string name="rating">Рейтинг</string>
+    <string name="date_of_release">Дата выхода</string>
+    <string name="label_description_movie">Описание</string>
+    <string name="description_movie">Описание</string>
+    <string name="trailers">Трейлеры</string>
+    <string name="original_title">Оригинальное название</string>
+    <string name="description_add_to_favourite">Кнопка добавить в избранное</string>
+</resources>
